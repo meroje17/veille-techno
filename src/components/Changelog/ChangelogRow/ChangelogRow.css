@@ -1,0 +1,29 @@
+.changelog__cell {
+    padding: 14px 16px;
+}
+
+.changelog__table .changelog__badge--new,
+.changelog__table .changelog__badge--major,
+.changelog__table .changelog__badge--minor,
+.changelog__table .changelog__badge--patch {
+    width: fit-content;
+    padding: 4px 10px;
+    font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 10px;
+    margin-bottom: 2px;
+    border-radius: 2px;
+}
+
+.changelog__table .changelog__badge--new {
+    background-color: #03DAC5;
+}
+.changelog__table .changelog__badge--major {
+    background-color: #EF5350;
+}
+.changelog__table .changelog__badge--minor {
+    background-color: #42A5F5;
+}
+.changelog__table .changelog__badge--patch {
+    background-color: #BA68C8;
+}

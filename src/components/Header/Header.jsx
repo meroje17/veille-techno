@@ -12,7 +12,7 @@ const Header = () => (
         <h1 className={naming.HEADER.title}>
             <BuildIcon 
                 className={naming.HEADER.icon} 
-                fontSize="large" 
+                fontSize='large' 
             />
             VEILLE TECHNO
         </h1>

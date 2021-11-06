@@ -14,3 +14,13 @@ export const HEADER = {
 export const FOOTER = {
     base: 'footer'
 };
+
+export const CHANGELOG = {
+    base: 'changelog',
+    table: 'changelog__table',
+    cell: 'changelog__cell',
+    badgeNew: 'changelog__badge--new',
+    badgeMajor: 'changelog__badge--major',
+    badgeMinor: 'changelog__badge--minor',
+    badgePatch: 'changelog__badge--patch'
+};
