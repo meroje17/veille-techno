@@ -4,6 +4,10 @@ header.header {
     justify-content: center;
     align-items: center;
     padding: 10px 0 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100vw;
 }
 
 h1.header__title {
