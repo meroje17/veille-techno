@@ -64,8 +64,21 @@ h3 {
 	font-size: 25px;
 	color: #03DAC5;
 }
-p, a {
+p {
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
 	color: #F5F5F5;
+}
+a {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: #BB86FC;
+}
+a.nav__link--active {
+	text-decoration: none;
+	padding-bottom: 2.5px;
+	border-bottom: 2px solid #BB86FC;
+}
+a.nav__link--inactive {
+	text-decoration: none;
 }
