@@ -50,27 +50,32 @@ table {
 	border-spacing: 0;
 }
 h1 {
-	font-family: 'Mochiy Pop One', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
 	font-size: 55px;
 	color: #F5F5F5;
 }
 h2 {
-	font-family: 'Mochiy Pop One', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
 	font-size: 30px;
 	color: #BB86FC;
 }
 h3 {
-	font-family: 'Mochiy Pop One', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
 	font-size: 25px;
 	color: #03DAC5;
 }
 p {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	font-size: 18px;
 	color: #F5F5F5;
 }
 a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	font-size: 18px;
 	color: #BB86FC;
 }

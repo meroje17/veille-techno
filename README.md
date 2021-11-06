@@ -25,4 +25,4 @@ yarn start
 
 ## + infos
 
-- Google fonts : Lato & Mochiy Pop One
+- Google fonts : Roboto & Display
