@@ -3,9 +3,12 @@ export const NAV_LINK = {
     inactive: 'nav__link--inactive'
 };
 
+export const BODY = 'body';
+
 export const HEADER = {
     base: 'header',
-    title: 'header__title'
+    title: 'header__title',
+    icon: 'header__icon'
 };
 
 export const FOOTER = {

@@ -13,3 +13,7 @@ header.header {
 h1.header__title {
     margin-bottom: 15px;
 }
+
+.header__icon {
+    margin-right: 5px;
+}

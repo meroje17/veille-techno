@@ -4,9 +4,18 @@ import React from 'react';
 import * as naming from '../../constants/styles';
 import './Header.css';
 
+// Components
+import BuildIcon from '@mui/icons-material/Build';
+
 const Header = () => (
     <header className={naming.HEADER.base}>
-        <h1 className={naming.HEADER.title}>VEILLE TECHNOLOGIQUE</h1>
+        <h1 className={naming.HEADER.title}>
+            <BuildIcon 
+                className={naming.HEADER.icon} 
+                fontSize="large" 
+            />
+            VEILLE TECHNO
+        </h1>
         <nav></nav>
     </header>
 );
