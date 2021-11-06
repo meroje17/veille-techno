@@ -7,3 +7,7 @@ export const HEADER = {
     base: 'header',
     title: 'header__title'
 };
+
+export const FOOTER = {
+    base: 'footer'
+};

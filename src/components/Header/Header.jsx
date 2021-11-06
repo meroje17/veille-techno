@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Styles
-import * as naming from '../constants/styles';
+import * as naming from '../../constants/styles';
 import './Header.css';
 
 const Header = () => (

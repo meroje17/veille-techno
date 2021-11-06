@@ -1,7 +1,8 @@
 import './App.css';
 
 // Components
-import Header from './components/Header';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -10,9 +11,7 @@ function App() {
       <section>
 
       </section>
-      <footer>
-
-      </footer>
+      <Footer />
     </div>
   );
 }
